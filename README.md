@@ -2,7 +2,7 @@
 Impact of Excel in the domain of Sales and finance. This is a real-world industry standard project.
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]
+    **1.** Create a [customer performance report]
 
     **2.** Conduct a comprehensive comparison between [market performance and sales targets]
 
@@ -17,7 +17,7 @@ Impact of Excel in the domain of Sales and finance. This is a real-world industr
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year]_ & [Months]
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year] & [Months]
    **2.** Create Profit and Loss (P&L) reports by [Markets]
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
