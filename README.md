@@ -1,5 +1,5 @@
 # sales_finance_domain_data_analytics
-Impact of Excel in the domain of Sales and finance. This is a real-world industry standard project.
+Impact of data analytics  in the domain of Sales and finance. This is a real-world industry standard project.
 - **Project objective:** 
 
     **1.** Create a [customer performance report]
